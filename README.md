@@ -1,4 +1,4 @@
-GEOREDE5 <img src="https://https://raw.githubusercontent.com/georede5/georede5.github.io/master/image.png" align="right"/>
+GEOREDE5 <img src="./image.png" align="right"/>
 ======================================================================================================
 
 A ideia é criar um modelo semi ubíquo paa gestão redes, quer permita:
