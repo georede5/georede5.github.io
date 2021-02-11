@@ -7,4 +7,4 @@ include:
   - README.md
   - 1stthing.md
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
