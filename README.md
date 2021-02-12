@@ -19,4 +19,4 @@ Nada…
 Tudo, claro está!
 
 
-[teste ao link](./1stthing.md)
+Para ficarem a par das novidades relativas ao projecto e/ou participarem, [podem aceder ao nosso canal de telegram](https://t.me/joinchat/IbENe1V7CyDEPbnv)
