@@ -11,7 +11,7 @@ A ideia é criar um modelo semi ubíquo paa gestão redes, quer permita:
 Mas a ideia principal é criar um projecto de raiz, e conseguir levá-lo de :a: a :b: ... de "fio a pavio", etc...e que possa ser acompanhado nas sessões do Geocamp.
 
 ### Mais Info
-* [Primeiros passos](../../../inicio_pg)
+* [Primeiros passos](https://github.com/georede5/inicio_pg)
 * [Modelos de dados](../../../db_models)
 
 ### O que está feito?
